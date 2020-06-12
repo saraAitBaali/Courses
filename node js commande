@@ -1,6 +1,6 @@
-- npm install <nom module> : installation d'un module en local.
+-npm install <nom module> : installation d'un module en local.
 
-- npm update : mettre a jour un mododule.
+-npm update : mettre a jour un mododule.
 
 -ng serve --open --port <numero port> : build a project engular in browser.
 
