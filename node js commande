@@ -2,7 +2,7 @@
 
 -npm update : mettre a jour un mododule.
 
--ng serve --open --port <numero port> : build a project engular in browser.
+-ng serve --open --port <numero port> : test l'application en local en cours de developpement.
 
 -node -v : version installer en local de node js.
 
